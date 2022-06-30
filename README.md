@@ -4,9 +4,9 @@
 I am Prabhav Gupta, junior year engineering enthusiastic about python and web development. I really enjoy learning languages and frameworks, I am very keen to learn new technologies and use them to either create something useful or improve the existing software. My interests are to explore new things, read novels, listen to music and go on traveling.
 
 ### Skills
-* 🕸️ HTML, CSS
-* 📱 JavaScript
-* 💻 React
+* 🕸️ HTML, CSS, Sass, Bootstrap
+* 📱 C++, Python, JavaScript
+* 💻 ReactJS, NodeJS
 
 - 🔭 I’m currently working on a clone project 
 - 🌱 I’m currently learning Backend Development and sharpening my Data Structures and Algorithms skills. 
