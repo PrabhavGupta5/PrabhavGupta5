@@ -6,7 +6,7 @@ I am Prabhav Gupta, junior year engineering enthusiastic about python and web de
 ### Skills
 * 🕸️ HTML, CSS, Sass, Bootstrap
 * 📱 C++, Python, JavaScript
-* 💻 ReactJS, NodeJS
+* 💻 ReactJS, NodeJS, ExpressJS, MongoDB
 
 - 🔭 I’m currently working on a clone project 
 - 🌱 I’m currently learning Backend Development and sharpening my Data Structures and Algorithms skills. 
