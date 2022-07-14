@@ -9,7 +9,7 @@ I am Prabhav Gupta, junior year engineering enthusiastic about python and web de
 * 💻 ReactJS, NodeJS, ExpressJS, MongoDB
 
 - 🔭 I’m currently working on a clone project 
-- 🌱 I’m currently learning Backend Development and sharpening my Data Structures and Algorithms skills. 
+- 🌱 I’m currently sharpening my Data Structures and Algorithms skills. 
 - 👯 I’m looking to collaborate on different projects. 
 - 💬 Ask me about anything, I will be more than happy to help. 
 - ⚡ Fun fact: My perfect day would start with food and end with food. 
