@@ -15,7 +15,8 @@ I am Prabhav Gupta, junior year engineering enthusiastic about python and web de
 - ⚡ Fun fact: My perfect day would start with food and end with food. 
 
 ### Links
-* [<img src='https://github.githubassets.com/images/modules/logos_page/Octocat.png' alt='github' height='40'>](https://github.com/https://github.com/PrabhavGupta5)   *** * [<img src='https://pngimg.com/uploads/linkedIn/linkedIn_PNG39.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/gupta-prabhav/) 
+* [<img src='https://github.githubassets.com/images/modules/logos_page/Octocat.png' alt='github' height='40'>](https://github.com/https://github.com/PrabhavGupta5)
+* [<img src='https://pngimg.com/uploads/linkedIn/linkedIn_PNG39.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/gupta-prabhav/) 
 * [<img src='https://icon-library.com/images/new-instagram-icon-png/new-instagram-icon-png-6.jpg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/prabhav_gupta_//)  
 * [<img src='https://thumbs.dreamstime.com/b/website-icon-blue-black-colors-vector-illustration-website-icon-blue-black-colors-vector-146248329.jpg' alt='website' height='40'>](https://prabhavgupta5.github.io/)  
 
