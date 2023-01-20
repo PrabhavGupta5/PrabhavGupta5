@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Prabhav Gupta
 ![](https://media-exp1.licdn.com/dms/image/C4E16AQGk_bN3mT-mxw/profile-displaybackgroundimage-shrink_350_1400/0/1643570611792?e=1652313600&v=beta&t=O2IF8_dQVHC3Y-gaKQJ8_4FkkQkjmhrItcIEtDUhC2s)
 
-I am Prabhav Gupta, junior year engineering enthusiastic about python and web development. I really enjoy learning languages and frameworks, I am very keen to learn new technologies and use them to either create something useful or improve the existing software. My interests are to explore new things, read novels, listen to music and go on traveling.
+I am Prabhav Gupta, final year engineering enthusiastic about python and web development. I really enjoy learning languages and frameworks, I am very keen to learn new technologies and use them to either create something useful or improve the existing software. My interests are to explore new things, read novels, listen to music and go on traveling.
 
 ### Skills
 * 🕸️ HTML, CSS, Sass, Bootstrap
