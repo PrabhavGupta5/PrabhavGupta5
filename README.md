@@ -5,10 +5,10 @@ I am Prabhav Gupta, final year engineering enthusiastic about python and web dev
 
 ### Skills
 * 🕸️ HTML, CSS, Sass, Bootstrap
-* 📱 C++, Python, JavaScript
-* 💻 ReactJS, NodeJS, ExpressJS, MongoDB
+* 📱 C++, Java, JavaScript
+* 💻 ReactJS, NodeJS.
 
-- 🔭 I’m currently working on a clone project 
+- 🔭 I’m currently working in TVS Motors as Backend Engineer.
 - 🌱 I’m currently sharpening my Data Structures and Algorithms skills. 
 - 👯 I’m looking to collaborate on different projects. 
 - 💬 Ask me about anything, I will be more than happy to help. 
