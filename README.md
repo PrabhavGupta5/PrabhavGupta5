@@ -4,9 +4,9 @@
 I am Prabhav Gupta, final year engineering enthusiastic about python and web development. I really enjoy learning languages and frameworks, I am very keen to learn new technologies and use them to either create something useful or improve the existing software. My interests are to explore new things, read novels, listen to music and go on traveling.
 
 ### Skills
-* 🕸️ HTML, CSS, Bootstrap
-* 📱 C++, Java, JavaScript
-* 💻 ReactJS, NodeJS.
+* 🕸️ HTML, CSS, JavaScript
+* 📱 Java, SpringBoot, AWS, Kubernetes
+* 💻 ReactJS, Angular, Kafka.
 
 - 🔭 I’m currently working in TVS Motors as Backend Engineer.
 - 🌱 I’m currently sharpening my Data Structures and Algorithms skills. 
