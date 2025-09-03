@@ -15,7 +15,6 @@ I am Prabhav Gupta, a Software Developer enthusiastic about solving problems. I 
 - ⚡ Fun fact: My perfect day would start with food and end with food. 
 
 ### Links
-* [<img src='' alt='github' height='40'>](https://github.com/PrabhavGupta5)
 * [<img src='https://pngimg.com/uploads/linkedIn/linkedIn_PNG39.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/gupta-prabhav/)  
 * [<img src='https://thumbs.dreamstime.com/b/website-icon-blue-black-colors-vector-illustration-website-icon-blue-black-colors-vector-146248329.jpg' alt='website' height='40'>](https://prabhavgupta5.github.io/)  
 
