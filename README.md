@@ -4,7 +4,7 @@
 I am Prabhav Gupta, a Software Developer enthusiastic about solving problems. I really enjoy learning languages and frameworks, I am very keen to learn new technologies and use them to either create something useful or improve the existing software. My interests are to explore new things, read novels, listen to music and go on traveling.
 
 ### Skills
-* 🕸️ HTML, CSS, JavaScript
+* 🕸️ JavaScript, Python
 * 📱 Java, SpringBoot, AWS, Azure, Kubernetes
 * 💻 ReactJS, TypeScript, Kafka.
 
