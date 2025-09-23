@@ -15,5 +15,5 @@
 ### ⚡ Links ⚡
 * [<img src='https://pngimg.com/uploads/linkedIn/linkedIn_PNG39.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/gupta-prabhav/)  
 * [<img src='https://thumbs.dreamstime.com/b/website-icon-blue-black-colors-vector-illustration-website-icon-blue-black-colors-vector-146248329.jpg' alt='website' height='40'>](https://prabhavgupta5.github.io/)
-* [<img src='https://logo.svgcdn.com/s/leetcode-dark.png' alt='leetcode' height='40'>](https://leetcode.com/prabhavgupta5/)
+* [<img src='https://logo.svgcdn.com/s/leetcode.png' alt='leetcode' height='40'>](https://leetcode.com/prabhavgupta5/)
 
