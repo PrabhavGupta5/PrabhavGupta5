@@ -4,7 +4,7 @@
 ## ⚡ Current Statistics ⚡
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PrabhavGupta5&show_icons=true&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PrabhavGupta5&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?username=PrabhavGupta5&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PrabhavGupta5&layout=compact&theme=radical)
 ![LeetCode Badges](https://leetcode-badge-showcase.vercel.app/api?username=Prabhavgupta05&animated=true)
 
