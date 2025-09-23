@@ -16,4 +16,4 @@
 
 * [<img src='https://pngimg.com/uploads/linkedIn/linkedIn_PNG39.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/gupta-prabhav/)  
 * [<img src='https://thumbs.dreamstime.com/b/website-icon-blue-black-colors-vector-illustration-website-icon-blue-black-colors-vector-146248329.jpg' alt='website' height='40'>](https://prabhavgupta5.github.io/)
-* [<img src='https://iconscout.com/images/icon/free/png-256/leetcode-3620791-3020256.png' alt='leetcode' height='40'>](https://leetcode.com/prabhavgupta05/)
+* [<img src='https://img.icons8.com/?size=100&id=9L16NypUzu38&format=png&color=000000' alt='leetcode' height='40'>](https://leetcode.com/prabhavgupta05/)
