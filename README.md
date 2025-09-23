@@ -1,6 +1,3 @@
-### Hi there 👋, I'm Prabhav Gupta
-![](https://media-exp1.licdn.com/dms/image/C4E16AQGk_bN3mT-mxw/profile-displaybackgroundimage-shrink_350_1400/0/1643570611792?e=1652313600&v=beta&t=O2IF8_dQVHC3Y-gaKQJ8_4FkkQkjmhrItcIEtDUhC2s)
-
 ### ⚡ Skills ⚡
 * 🕸️ JavaScript, Python
 * 📱 Java, SpringBoot, AWS, Azure, Kubernetes
