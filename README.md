@@ -1,7 +1,7 @@
 ### ⚡ Skills ⚡
-* 🕸️ JavaScript, Python
+* 🕸️ JavaScript, ReactJS, Python
 * 📱 Java, SpringBoot, AWS, Azure, Kubernetes
-* 💻 ReactJS, TypeScript, Kafka, Redis
+* 💻 TypeScript, Kafka, Docker, Redis
 
 ### ⚡ Stats ⚡
 
@@ -13,7 +13,8 @@
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Prabhavgupta05?theme=dark)
 
 ### ⚡ Links ⚡
+
 * [<img src='https://pngimg.com/uploads/linkedIn/linkedIn_PNG39.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/gupta-prabhav/)  
 * [<img src='https://thumbs.dreamstime.com/b/website-icon-blue-black-colors-vector-illustration-website-icon-blue-black-colors-vector-146248329.jpg' alt='website' height='40'>](https://prabhavgupta5.github.io/)
-* [<img src='https://logo.svgcdn.com/s/leetcode.png' alt='leetcode' height='40'>](https://leetcode.com/prabhavgupta5/)
+* [<img src='https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_white_no_text.svg' alt='leetcode' height='40'>](https://leetcode.com/prabhavgupta5/)
 
