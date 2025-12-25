@@ -5,7 +5,7 @@
 
 ### ⚡ Stats ⚡
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PrabhavGupta5&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PrabhavGupta5 )
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PrabhavGupta5&layout=compact&theme=radical)
 
 ### ⚡ LC Badge ⚡
