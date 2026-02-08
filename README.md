@@ -5,9 +5,10 @@
 
 ### ⚡ Stats ⚡
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PrabhavGupta5&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PrabhavGupta5&show_icons=true&theme=radical&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PrabhavGupta5&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PrabhavGupta5&layout=compact&theme=radical&hide_border=true)
+
 
 
 ### ⚡ LC Badge ⚡
